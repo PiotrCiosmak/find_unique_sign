@@ -21,7 +21,7 @@ public class FirstUnique
             System.err.println("Error");
         if (!firstUnique("Aabcdbcd").equals("A"))
             System.err.println("Error");
-        if(!firstUnique("DDs").equals("S"))
+        if (!firstUnique("DDs").equals("S"))
             System.err.println("Error");
     }
 
